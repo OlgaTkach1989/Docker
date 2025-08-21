@@ -20,6 +20,9 @@ EXPOSE 80 im Dockerfile = Dokumentation: "Dieser Container hört intern auf Port
 → Beispiel: Browser greift auf localhost:8081 zu, Docker leitet das in den Container-Port 80 um.
 
 ------------------------------
+https://hub.docker.com/repositories/olga378
+
+
 ## FAQ – Veröffentlichung auf Docker Hub
 
 ### Namensräume
